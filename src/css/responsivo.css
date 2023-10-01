@@ -47,19 +47,25 @@
     }
 
     .conteudo {
-        top: -30%;
+        top: -9%;
     }
 
     .conteudo .nome-personagem {
-        font-size: 24px;
+        font-size: 20px;
+
+    }
+
+    .conteudo .descricao {
+        font-size: 12px;
     }
 
     .botoes {
-        padding: 20px;
-        top: -20%;
+        padding: 10px;
+        top: -2%
     }
 
     .botoes .botao img {
-        max-width: 50px;
+        max-width: 40px;
     }
+
 }
